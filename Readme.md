@@ -105,3 +105,55 @@ Salary_Prediction/
 ├── job_title_encoder.pkl
 ├── requirements.txt
 └── README.md
+
+
+md
+🌐 Streamlit Application
+
+The project includes an interactive Streamlit application that allows users to:
+
+✅ Enter employee information
+
+✅ Predict salaries instantly
+
+✅ Interact with a modern AI-powered dashboard
+
+✅ Visualize salary insights
+
+🚀 Installation & Setup
+Clone the Repository
+git clone https://github.com/ayushpalse01012023-byte/Salary_price_Prediction.git
+Navigate to Project Directory
+cd Salary_price_Prediction
+Install Dependencies
+pip install -r requirements.txt
+Run the Application
+streamlit run app.py
+🎯 Future Enhancements
+Hyperparameter Tuning
+Cross Validation
+Feature Importance Analysis
+Explainable AI (XAI)
+Advanced Dashboard Analytics
+Cloud Deployment
+Salary Trend Forecasting
+Deep Learning Models
+👨‍💻 Author
+Ayush Palse
+
+Machine Learning Enthusiast | Python Developer | Data Science Learner
+
+GitHub:
+Ayush Palse GitHub Profile
+
+⭐ Support the Project
+
+If you found this project useful, consider giving the repository a Star ⭐.
+
+It helps support future development and motivates continued learning and project building.
+
+📬 Feedback & Contributions
+
+Contributions, suggestions, and feedback are always welcome.
+
+Feel free to open an issue or submit a pull request to improve the project. 🚀
